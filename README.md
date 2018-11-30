@@ -1,19 +1,20 @@
-# Rock Paper Scisscors in Python! 
+# Final Integrated Project 
 
-### Pick your weapon and play against the computer - you'll only get a virtual sting if you lose!
+##By Heni Manavadariya and Alexandrea Kennedy
 
-Prerequisites: All you need is [Python 3](https://www.python.org/download/releases/3.0) to play. 
+###This is our website dedicated to our Photography buisness, "Patel Kay Portraits"
 
-Clone the project, navigate to the correct directory <code> - cd directory name - </code>and run the game.py file in a Python 3 Terminal window for mac / Linux.
+##Requirements: 
 
-The rules are te same as the classic game:
+All you need is a basic internet browswer top open the html files. Preferably [Google Chrome](https://www.google.com/chrome/), or [Firefox](https://www.mozilla.org/en-CA/firefox/new/).
 
-1. Paper covers Rock.
-2. Scissors cuts Paper.
-3. Rock smashes Scissors.
+Clone the project, navigate to the correct directory <code> - cd directory name - </code>and open the index.html file to run the website. 
 
-***Choose your weapon wisely!***
+##Authors: Heni Manavadariya and Alexandrea Kennedy
 
-The comuter chooses first; just follow the prompts. 
+Built with [Sublime Text 3](https://www.sublimetext.com/3) using HTML5 and CSS 
 
-Built with [Python 3.](http://www.python.org)
+
+
+
+
